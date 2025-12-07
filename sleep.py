@@ -10,9 +10,9 @@ from werkzeug.security import generate_password_hash, check_password_hash
 
 # ---------- CONFIG ----------
 DB_HOST = '82.180.143.66'
-DB_USER = 'u263681140_studentsD'
+DB_USER = 'u263681140_students'
 DB_PASSWORD = 'testStudents@123'
-DB_NAME = 'drowsiness_system'
+DB_NAME = 'u263681140_students'
 
 FIXED_CAR_NAME = "Car-Alpha"
 FIXED_CAR_ID = "CAR12345"
